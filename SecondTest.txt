@@ -1,1 +1,2 @@
-This is second file directly created in Git hub web repository
+This is second file directly created in Git hub web repository.
+I made some changes.
